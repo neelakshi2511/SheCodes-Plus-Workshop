@@ -1,5 +1,5 @@
 # SheCodes-Plus-Workshop
-This repo contains my projects completed as a part of the SheCodes Plus Workshop . The workshop covers technologies like HTML , CSS , JavaScript , VSCode , API , GitHub and Hosting. 
+This repo contains my projects completed as a part of the SheCodes Plus Workshop . SheCodes Plus is a 5- week long workshop that covers technologies like HTML , CSS , JavaScript , VSCode , API , GitHub and Hosting. 
 The course objects include - 
 
 ✔The fundamental coding languages HTML, CSS and JavaScript
