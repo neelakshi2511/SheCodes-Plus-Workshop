@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SheCodes</title>
+    <style>
+        h1{
+            text-align:center;
+            font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+        }
+        h2{
+            text-align:center;
+            color:blueviolet;
+            font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+        } 
+        p{
+            text-align: center;
+            font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+        }
+
+        .join {
+            display:block;
+            text-align: center;
+            color: #fff !important;
+            border-radius:25px;
+            margin: 0 auto;
+            padding:20px;
+            background-color: blueviolet;
+            border: 1px solid white;
+            font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+        }
+
+        .join a {
+            color: #fff;
+            text-decoration: none; /* Remove underline */
+        }
+
+        .join a:hover {
+            color: #ddd; /* Optional: Hover effect to change color */
+        }
+
+    </style>
+</head>
+<body>
+    <h1>
+        <strong>
+        👩‍💻SheCodes is a Coding Workship for Women
+        </strong>
+    </h1>
+    <h2>
+        <strong>
+            Access a new career in Technology
+        </strong>
+    </h2>
+    <p><br/></p>
+    <p>
+        SheCodes teaches coding, design and management skills to women<br/>
+        <strong> Limited number of spots available! </strong>
+    </p>   
+     
+    <button class = "join">
+    <a href="https://www.shecodes.io/" id = "website link">Join now</a>
+    </button>
+    
+    
+    
+</body>
+</html>
