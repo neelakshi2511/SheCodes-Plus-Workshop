@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SheCodes</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+        }
+        h1 {
+            text-align: center;
+        }
+        h2 {
+            text-align: center;
+            color: blueviolet;
+        }
+        .description {
+            text-align: center;
+        }
+        .alert {
+            text-align: center; /* Centers the text within the .alert element */
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        .join {
+            display: block;
+            text-align: center;
+            color: #fff !important;
+            border-radius: 25px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: blueviolet;
+            border: 1px solid white;
+        }
+        .join a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .join a:hover {
+            color: #ddd;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #f1f1f1;
+            margin-top: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1><strong>👩‍💻SheCodes is a Coding Workshop for Women</strong></h1>
+        <h2><strong>Access a new career in Technology</strong></h2>
+    </header>
+
+    <section>
+        <div class="description">SheCodes teaches coding, design, and management skills to women</div>
+        <span class="alert">Limited number of spots available!</span>
+    </section>
+
+    <button class="join">
+        <a href="https://www.shecodes.io/" id="website-link">Join now</a>
+    </button>
+
+    <footer>
+        <p>© SheCodes</p>
+    </footer>
+</body>
+</html>
